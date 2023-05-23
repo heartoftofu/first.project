@@ -49,6 +49,20 @@ button:hover {
   color: #b7c3ca;
 }
 
+footer {
+  color: #b7c3ca;
+  font-size: 12px;
+  text-align: right;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+.footer-link {
+  color: #f2f3f5;
+}
+.footer-link:hover {
+  color: #64849c;
+  cursor: pointer;
+}
 .bold {
   font-weight: 700;
 }
